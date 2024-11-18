@@ -1,0 +1,11 @@
+{
+  "name": "creative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gwebsurfer/creative.git",
+  "author": "gwebsurfer",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7"
+  }
+}
